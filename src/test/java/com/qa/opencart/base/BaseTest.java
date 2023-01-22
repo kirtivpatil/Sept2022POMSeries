@@ -1,5 +1,6 @@
 package com.qa.opencart.base;
-//kptest 123 kpbranch
+//kptest 123 kpbranch again in branch
+//master updates
 
 import java.util.Properties;
 
